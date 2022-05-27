@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+$./0-current_working_directory /root/alx-system_engineering-devops/0x00-shell_basics$
+>>>>>>> fc5322916967e0d8c1b39343b907649dabb06b20
