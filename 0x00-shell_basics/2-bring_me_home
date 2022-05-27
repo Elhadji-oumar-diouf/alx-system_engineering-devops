@@ -1,2 +1,9 @@
 #!bin/bash
-je veut ajouter une nouvel ligne 
+clear 
+echo enter directory name 
+read dname
+if cd $dname
+then
+	echo "changed to $dname"
+	pwd
+fi
