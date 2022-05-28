@@ -1,7 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 ls -1
 #!/bin/bash
 =======
 Ls -l
 >>>>>>> 485ddf2d6a45a0d9ee5d884b06c18ce9b2e43b66
+=======
+ls -l
+>>>>>>> f63a48a8b2ce1f604cd09c61fdb3765a9b37686c
